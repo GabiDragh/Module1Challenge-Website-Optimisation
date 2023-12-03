@@ -4,7 +4,7 @@ Horiseon website existing code files refactored to increase the application visi
 
 ## Steps taken
 
-1. Git repository named Module1Challenge-Website-Optimisation created and available at https://github.com/GabiDragh/Module1Challenge-Website-Optimisation
+1. Git repository named Module1Challenge-Website-Optimisation created 
 2. Current README.md file created.
 3. Index.html file amended for the body of the code to clearly show head, body and footer sections. Footer not visible in the assignment demo screenshot, therefore the visibility is set to none in style.css file.
 4. The generic container DIV used in the initial file has been replaced with semantic elements such as NAV for the navigation bar unordered list contents, the SECTION tag has been applied to separate the main content information, followed by assigning the ASIDE tag to the side content. 
@@ -16,5 +16,8 @@ Horiseon website existing code files refactored to increase the application visi
 
 ### Screenshots and links
 
+Application screenshot relative path screencapture-gabidragh-github-io-Module1Challenge-Website-Optimisation-2023-12-03-02_01_56.png
 
+Deployed application can be found at https://gabidragh.github.io/Module1Challenge-Website-Optimisation/
 
+GItHub repository available at https://github.com/GabiDragh/Module1Challenge-Website-Optimisation
