@@ -18,6 +18,6 @@ Horiseon website existing code files refactored to increase the application visi
 
 ![Application Screenshot](screencapture-gabidragh-github-io-Module1Challenge-Website-Optimisation-2023-12-03-02_01_56.png?raw=true "Application Screenshot")
 
-Deployed application can be found at (https://gabidragh.github.io/Module1Challenge-Website-Optimisation/)
+Deployed application can be found at https://gabidragh.github.io/Module1Challenge-Website-Optimisation/
 
-GItHub repository available at (https://github.com/GabiDragh/Module1Challenge-Website-Optimisation)
+GItHub repository available at https://github.com/GabiDragh/Module1Challenge-Website-Optimisation
