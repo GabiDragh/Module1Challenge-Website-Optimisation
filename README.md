@@ -21,3 +21,8 @@ Horiseon website existing code files refactored to increase the application visi
 Deployed application can be found at https://gabidragh.github.io/Module1Challenge-Website-Optimisation/
 
 GItHub repository available at https://github.com/GabiDragh/Module1Challenge-Website-Optimisation
+
+Semantic elements information at https://www.w3schools.com/html/html5_semantic_elements.asp
+
+HTML alt attribute information at https://www.w3schools.com/tags/att_img_alt.asp and https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/
+
