@@ -26,3 +26,6 @@ Semantic elements information at https://www.w3schools.com/html/html5_semantic_e
 
 HTML alt attribute information at https://www.w3schools.com/tags/att_img_alt.asp and https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/
 
+Insert images in README in GitHUb https://www.w3schools.io/file/github-readme-image/
+
+
